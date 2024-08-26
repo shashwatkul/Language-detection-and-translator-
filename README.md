@@ -21,6 +21,7 @@ This project is designed to recognize the language being spoken and translate it
 - **Text-to-Speech (Optional):** Converts translated text back into speech for audio output.
 
 ## Example
+![Project Screenshot](images/Screenshot%202024-08-27%20001500.png)
 
 - **You speak:** "how are you?"
 - The program recognizes this as English.
@@ -29,5 +30,5 @@ This project is designed to recognize the language being spoken and translate it
 ## Contributing
 Feel free to fork this repository and submit pull requests. Contributions are welcome to improve language detection accuracy, add support for more languages, or enhance features like text-to-speech.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
